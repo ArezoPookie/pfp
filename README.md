@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&weight=100&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Ruby!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&weight=100&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Pookie!)](https://git.io/typing-svg)
 
 I'm a front-end developer and Community Manager from Iran. You can call me anything you like, but I prefer to be called "He" or "they" as pronouns. I'm known on social media as "Arezo/August" I've spent years Learning my skills in programming and community management.  
 
